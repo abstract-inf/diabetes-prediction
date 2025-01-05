@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pc/Desktop/HTU/2024-2025/Artificial%20Intelligence/diabetes_classification/mlruns/157510782472443811/849f2651dedf485eb06120f220c4529b/artifacts
+end_time: 1735932913316
+entry_point_name: ''
+experiment_id: '157510782472443811'
+lifecycle_stage: active
+run_id: 849f2651dedf485eb06120f220c4529b
+run_name: LogisticRegression
+run_uuid: 849f2651dedf485eb06120f220c4529b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735926115532
+status: 3
+tags: []
+user_id: Pc

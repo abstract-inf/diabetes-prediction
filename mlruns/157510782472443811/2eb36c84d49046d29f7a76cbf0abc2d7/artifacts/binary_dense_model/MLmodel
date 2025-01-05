@@ -1,0 +1,20 @@
+artifact_path: binary_dense_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.16
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.10.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.19.0
+model_size_bytes: 170660
+model_uuid: 66b8c9e9298b44ab9a031def149fd0b3
+run_id: 2eb36c84d49046d29f7a76cbf0abc2d7
+utc_time_created: '2025-01-04 18:22:48.300100'

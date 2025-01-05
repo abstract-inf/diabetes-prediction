@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pc/Desktop/HTU/2024-2025/Artificial%20Intelligence/diabetes_classification/mlruns/157510782472443811/2eb36c84d49046d29f7a76cbf0abc2d7/artifacts
+end_time: 1736015465232
+entry_point_name: ''
+experiment_id: '157510782472443811'
+lifecycle_stage: active
+run_id: 2eb36c84d49046d29f7a76cbf0abc2d7
+run_name: binary_dense_model
+run_uuid: 2eb36c84d49046d29f7a76cbf0abc2d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736012793262
+status: 3
+tags: []
+user_id: Pc

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Pc/Desktop/HTU/2024-2025/Artificial%20Intelligence/diabetes_classification/mlruns/0/ba16a2855fc44c1980db176030f09f4d/artifacts
+deleted_time: 1736073673547
+end_time: 1736073661592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ba16a2855fc44c1980db176030f09f4d
+run_name: RandomForestClassifier
+run_uuid: ba16a2855fc44c1980db176030f09f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736073325879
+status: 3
+tags: []
+user_id: Pc
