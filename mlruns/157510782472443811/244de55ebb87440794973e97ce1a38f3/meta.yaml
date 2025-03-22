@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pc/Desktop/HTU/2024-2025/Artificial%20Intelligence/diabetes_classification/mlruns/157510782472443811/244de55ebb87440794973e97ce1a38f3/artifacts
+end_time: 1736446125989
+entry_point_name: ''
+experiment_id: '157510782472443811'
+lifecycle_stage: active
+run_id: 244de55ebb87440794973e97ce1a38f3
+run_name: resilient-gnu-562
+run_uuid: 244de55ebb87440794973e97ce1a38f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736446125739
+status: 3
+tags: []
+user_id: Pc
